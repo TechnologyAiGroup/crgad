@@ -1,4 +1,4 @@
-# GRAD
+# GRAD (CIKM'26)
 
 This repository contains the implementation of "Curvature-Regularized Graph Autoencoders with Rewiring
 for Node-Level Graph Anomaly Detection".
