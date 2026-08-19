@@ -1,4 +1,4 @@
-# GRAD (CIKM'26)
+# GRGAD(CIKM'26)
 
 This repository contains the implementation of "Curvature-Regularized Graph Autoencoders with Rewiring
 for Node-Level Graph Anomaly Detection".
@@ -143,4 +143,4 @@ where:
 
 ## License
 
-MIT License
+This project is licensed under the [Apache License 2.0](LICENSE).
